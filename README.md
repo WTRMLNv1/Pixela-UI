@@ -3,6 +3,13 @@
 A small, friendly desktop GUI for interacting with Pixela (https://pixe.la).
 
 This app provides a simple Tkinter interface to create a Pixela user, create graphs, add pixels, open the graph in your browser, and manage UI themes and keyboard shortcuts.
+### **Note**
+This project is over. For a better-looking, better-functioning GUI for Pixela, please check out my [Pixela-UI-New](https://github.com/WTRMLNv1/Pixela-UI-New) Repository. It even includes an EXE!
+Why?
+- **Better error handling**: Less likely to face errors and sit here watching tutorials trying to fix
+- **More features**: Much more useful
+- **Better GUI**: Uses Ctk to make the GUI *much* more modern
+- **Includes EXE**: Use it just like a real app rather than running from the terminal every time
 
 ## Features
 - Create a Pixela user and graph
